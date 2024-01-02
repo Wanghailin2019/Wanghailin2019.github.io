@@ -1,7 +1,7 @@
 ---
 title: '论文中Proposition和Corollary的区别是什么'
 date: 2024-01-02
-permalink: /posts/2024/01/
+permalink: /posts/2024/01/2024-01-02-论文中Proposition和Corollary的区别是什么
 tags:
   - mathematics
 ---
